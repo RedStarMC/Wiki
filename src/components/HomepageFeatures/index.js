@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '简单易用',
+    title: '永久公益',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        就这点配置有啥难的.
+        绝对不会圈走您的钱.
       </>
     ),
   },
   {
-    title: '文档详细',
+    title: '玩法多样',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        看完文档学不会怎么用说明你是个傻逼.
+        有什么点子记得和我们说
       </>
     ),
   },
   {
-    title: '功能强大',
+    title: '社区优质',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        多说无益, 用用就知道了.
+        多说无益, 加入社区玩玩就知道了.
       </>
     ),
   },
