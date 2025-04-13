@@ -43,7 +43,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
           editUrl:
-            'https://github.com/pingguomc/Wiki/blob/main'
+            'https://github.com/redstarmc/Wiki/blob/main'
         },
         blog: false,
         theme: {
