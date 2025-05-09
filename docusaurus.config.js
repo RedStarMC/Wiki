@@ -123,6 +123,10 @@ const config = {
                 label: '开始',
                 to: '/intro',
               },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/redstarmc/Wiki',
+              },
             ],
           },
           {
@@ -143,7 +147,7 @@ const config = {
             ],
           },
           {
-            title: '文档仓库',
+            title: '友链',
             items: [
               {
                 label: 'GitHub',
