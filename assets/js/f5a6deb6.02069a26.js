@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredstarmc_wiki=self.webpackChunkredstarmc_wiki||[]).push([[1496],{9481:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"renwu"}')}}]);
