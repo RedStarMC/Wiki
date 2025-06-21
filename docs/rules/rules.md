@@ -3,7 +3,7 @@ slug: /preparation
 sidebar_position: 4
 ---
 
-# 规则
+# 游玩须知
 
 本目录下为各个规则页面，展示了确保公平游戏的准则，点击下面的内容进行阅读。
 
