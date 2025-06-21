@@ -16,23 +16,23 @@ sidebar_position: 1
 
 ## 快速导航 {#quick-nav}
 
-- [服务器介绍](/server-introduce) - 了解各服务器游戏内容  
+- [服务器介绍](server-introduce/server-introduce.md) - 了解各服务器游戏内容  
 
-- [新手入门](/getting-started) - 从零开始冒险之旅  
+- [新手入门](getting-started/getting-started.md) - 从零开始冒险之旅  
 
-- [游戏规则](/rules) - 公平游戏准则  
+- [游戏规则](rules/rules.md) - 公平游戏准则  
 
-- [常见问题](/faq) - 快速解答疑问  
+- [常见问题](FAQ/FAQ.md) - 快速解答疑问  
 
-- [社区历史](/history) - 了解历史故事
+- [社区历史](history/history.md) - 了解历史故事
 
 :::tip 新手指南
-初次访问？建议先查看 [如何加入服务器](/getting-started/how-to-join-server)，快速开启游戏之旅！
+初次访问？建议先查看 [如何加入服务器](getting-started/how-to-join-server.md)，快速开启游戏之旅！
 :::
 
 :::caution 重要提醒
 请务必遵守服务器规则，违规将受处罚。  
-完整规则详见：[规则章节](/category/rules)
+完整规则详见：[规则章节](rules/rules.md)
 :::
 
 :::info 条目状态
@@ -53,4 +53,4 @@ sidebar_position: 1
 ## 贡献 Wiki {#contribute}
 本 Wiki 由社区共同维护，欢迎：  
 ✅ 提交编辑请求 | ✅ 报告内容错误  
-贡献指南详见：[贡献说明](/contribute)
+贡献指南详见：[贡献说明](contribute/contribute.md)

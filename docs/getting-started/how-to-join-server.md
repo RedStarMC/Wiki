@@ -77,9 +77,9 @@ sidebar_position: 1
 
 :::caution 重要须知 
 
-首次登录前请务必阅读 [玩家须知](/rules/player-notice)
+首次登录前请务必阅读 [玩家须知](../rules/player-notice.md)
 
-所有玩家必须遵守 [管理条例](/rules/management-regulations)
+所有玩家必须遵守 [管理条例](../rules/management-regulations.md)
 
 ⚠️ 违规行为将受到处罚，包括永久封禁 
 :::
@@ -94,17 +94,19 @@ sidebar_position: 1
 
 :::
 :::info
-推荐查看 [相应服务器介绍及玩法](/server-introduce) 以快速了解
+推荐查看 [相应服务器介绍及玩法](../server-introduce/server-introduce.md) 以快速了解
 
 :::
 ### 主城观光
 四处走走，欣赏一下主城建筑或是进行截图打卡
 
 多逛一逛，寻找一些隐藏在主城内的彩蛋
-:::tips
+
+:::tip
+
 如果您建筑、或者彩蛋有贡献兴趣 欢迎 [成为我们的一员](/admin/intro)
 
-
+:::
 
 
 

@@ -1,5 +1,5 @@
 ---
-slug: /preparation
+slug: /rules
 sidebar_position: 4
 ---
 
