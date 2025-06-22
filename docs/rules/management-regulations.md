@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 处罚措施
+# 管理条例
 
 :::tip
 
