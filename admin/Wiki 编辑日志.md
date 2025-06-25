@@ -9,7 +9,7 @@ sidebar_position: 3
 
 ***
 
-# 2025-6-25
+## 2025-6-25
 ### * pingguomc *
 * 添加了加入页面
 
