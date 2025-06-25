@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Wiki 编辑日志
@@ -8,6 +8,10 @@ sidebar_position: 2
 欲编辑，请查看 **Wiki写作规范/日志写作规范**。
 
 ***
+
+# 2025-6-25
+### * pingguomc *
+* 添加了加入页面
 
 ## 2025-6-21
 ### * pingguomc * 

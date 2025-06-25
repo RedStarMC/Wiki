@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # ⛔管理总言
+
 wenjian因为读到了个很有用的句子所以决定写在这里。
 
 ***
