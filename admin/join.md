@@ -20,13 +20,23 @@ sidebar_position: 2
 
 如果你符合这些条件，恭喜你，你可以申请成为协管了。
 
-点击链接 [协管申请问卷](https://scn7ok9p5g9q.feishu.cn/share/base/form/shrcneyQmmNouWMOhiOe6t7NQ4g) 申请成为协管。
+点击链接 [申请问卷](https://scn7ok9p5g9q.feishu.cn/share/base/form/shrcneyQmmNouWMOhiOe6t7NQ4g) 申请成为协管。
 
 申请后，管理组相关负责人员会在 7 天内和您联系。
 
 ## 建筑师
 
-TODO
+如果你想成为一名 `建筑师`，你需要具备以下条件：
+1. 3 个月内无违例记录；
+2. 无重大违例记录；
+3. 拥有建筑作品；
+4. 能保证有时间参与社区建筑相关工作。
+
+如果你符合这些条件，恭喜你，你可以申请成为建筑师了。
+
+点击链接 [申请问卷](https://scn7ok9p5g9q.feishu.cn/share/base/form/shrcneyQmmNouWMOhiOe6t7NQ4g) 申请成为建筑师。
+
+申请后，管理组相关负责人员会在 7 天内和您联系。
 
 ## 腐竹、运维、管理
 
