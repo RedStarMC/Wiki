@@ -9,6 +9,10 @@ sidebar_position: 3
 
 ***
 
+## 2025-7-6
+### * pingguomc *
+* 编写了生存服指引
+
 ## 2025-6-25
 ### * pingguomc *
 * 添加了加入页面
