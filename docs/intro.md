@@ -44,7 +44,7 @@ sidebar_position: 1
 
 - **官网**：[点击进入](https://www.redstarmc.top/)  
 
-- **QQ群**：568197092 [加群链接](https://qm.qq.com/q/Xu2Ac6roMW)  
+- **QQ群**：568197092 [加群链接](https://qm.qq.com/q/Xu2Ac6roMW)  （生存服群：[点击链接加入群聊【RedStar生存服交流群】](https://qm.qq.com/q/I4uSACDTiw)）
 
 - **GitHub**：[项目仓库](https://github.com/RedStarMC)  
 :::
