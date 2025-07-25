@@ -119,7 +119,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/redstarmc/Wiki',
+            href: 'https://github.com/RedStarMC/Wiki',
             position: 'right',
             label: 'GitHub',
           },
@@ -150,7 +150,7 @@ const config = {
               },
               {
                 label: 'GitHub 仓库',
-                href: 'https://github.com/redstarmc/Wiki',
+                href: 'https://github.com/RedStarMC/Wiki', //大小写要分明，这样直接就可以在Wiki后面填上.git来clone
               },
             ],
           },
