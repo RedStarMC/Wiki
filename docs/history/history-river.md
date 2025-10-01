@@ -55,7 +55,7 @@ description: "历史的车轮滚滚向前。"
 },
 {
 date: "2023-07-29",
-title: "wenjian 购买了新的物理机。",
+title: "新的物理机被 wenjian 采购。",
 description: "后续服务器均运行在这台物理机上，同年 9 月份 wenjian 担任了腐竹。"
 },
 {
@@ -99,9 +99,14 @@ url: "https://www.bilibili.com/video/BV1EDfBY8Ec6"
 },
 {
 date: "2025-04-06",
-title: "社区维基建立",
+title: "社区维基建档设立",
 description: "RedStarMC社区的百科全书",
 url: "https://wiki.redstarmc.top/"
+},
+{
+date: "2025-05-26",
+title: "搜索引擎收录社区维基",
+description: "必应是个好东西。 "
 },
 ]}
 />
