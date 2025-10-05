@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredstarmc_wiki=self.webpackChunkredstarmc_wiki||[]).push([[2130],{936:s=>{s.exports=JSON.parse('{"blogBasePath":"/news","blogTitle":"\u65b0\u95fb","authorsListPath":"/news/authors"}')}}]);

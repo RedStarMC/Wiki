@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkredstarmc_wiki=self.webpackChunkredstarmc_wiki||[]).push([[4583],{1674:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/news","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"\u65b0\u95fb"}}')}}]);
