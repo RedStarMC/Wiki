@@ -31,7 +31,7 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v20
         with:
           fix: true
-          globs: 'docs/**/*.md,admin/**/*.md,release/**/*.md,renwu/**/*.md'
+          globs: 'docs/**/*.md,admin/**/*.md,news/**/*.md,renwu/**/*.md'
           separator: ','
 
       - name: "Build"

@@ -86,11 +86,9 @@ const config = {
             label: '文档',
           },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: '近期更新',
-            docsPluginId: 'release'
+            to: 'news',
+            label: '新闻',
+            position: 'left'
           },
           {
             type: 'docSidebar',
@@ -229,15 +227,17 @@ const config = {
         },
       ],
       [
-        '@docusaurus/plugin-content-docs',
+        '@docusaurus/plugin-content-blog',
         {
-          id: 'release',
-          path: 'release',
-          routeBasePath: 'release',
-          sidebarPath: './sidebars.js',
-          editCurrentVersion: true,
-          showLastUpdateAuthor: true,
-          showLastUpdateTime: true,
+          id: 'news',
+          path: 'news',
+          routeBasePath: 'news',
+          tagsBasePath: 'news/tags',
+          feedOptions: {
+            copyright: ' CC BY-NC-SA 4.0 '
+          },
+          blogTitle: '新闻',
+          blogSidebarTitle: '测试消息',
         },
       ],
       [

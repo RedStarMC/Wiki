@@ -16,13 +16,15 @@ sidebar_position: 1
 
 ## 快速导航 {#quick-nav}
 
-- [服务器介绍](server-introduce/server-introduce.md) - 了解各服务器游戏内容
+- [**服务器介绍**](server-introduce/server-introduce.md) - 认识各服务器游戏内容
 
-- [游戏规则](rules/rules.md) - 公平游戏准则  
+- [**游戏规则**](rules/rules.md) - 公平游戏准则  
 
-- [常见问题](FAQ/FAQ.md) - 快速解答疑问  
+- [**常见问题**](FAQ/FAQ.md) - 快速解答疑问  
 
-- [社区历史](history/history.md) - 了解历史故事
+- [**社区历史**](history/history.md) - 了解历史故事
+
+- [**新闻**](../news) - 发现社区最新消息
 
 :::tip 新手指南
 初次访问？建议先查看 [如何加入服务器](how-to-join-server.md)，快速开启游戏之旅！
