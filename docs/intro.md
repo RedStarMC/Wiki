@@ -4,30 +4,32 @@ sidebar_position: 1
 
 ---
 
-# 欢迎来到 RedStarMC 社区官方 Wiki {#welcome}
+# 欢迎来到 RedStarMC 社区维基 {#welcome}
 
-欢迎来到 RedStarMC 社区官方 Wiki！这里是您获取社区、服务器相关信息，游戏指南，社区规则和历史事件的一站式资源中心。
+欢迎来到 RedStarMC 社区维基！这里是您获取社区、社区服务器相关信息，社区新闻，游戏指南，社区规则和历史事件的一站式资源中心。
 
-:::note 版本支持
-服务器兼容版本：**1.12.2 - 1.21.5**  
-
-**推荐版本**：1.19.4 及以上
+:::tip 
+初次访问？ 点击下方 `链接`，快速访问。
 :::
 
 ## 快速导航 {#quick-nav}
 
-- [**服务器介绍**](server-introduce/server-introduce.md) - 认识各服务器游戏内容
+- [**`服务器介绍`**](server-introduce/server-introduce.md) - 认识各服务器游戏内容
 
-- [**游戏规则**](rules/rules.md) - 公平游戏准则  
+- [**`游戏规则`**](rules/rules.md) - 公平游戏准则  
 
-- [**常见问题**](FAQ/FAQ.md) - 快速解答疑问  
+- [**`常见问题`**](FAQ/FAQ.md) - 快速解答疑问  
 
-- [**社区历史**](history/history.md) - 了解历史故事
+- [**`社区历史`**](history/history.md) - 了解历史故事
 
-- [**新闻**](../news) - 发现社区最新消息
+- [**`新闻`**](../news) - 发现社区最新消息
 
-:::tip 新手指南
-初次访问？建议先查看 [如何加入服务器](how-to-join-server.md)，快速开启游戏之旅！
+- [**如何加入服务器**](how-to-join-server.md)
+
+:::note 版本支持
+服务器兼容版本：**1.12.2 - 1.21.5**
+
+**推荐版本**：1.19.4 及以上
 :::
 
 :::caution 重要提醒

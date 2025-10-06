@@ -90,13 +90,13 @@ const config = {
             label: '新闻',
             position: 'left'
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: '其人志',
-            docsPluginId: 'renwu'
-          },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: '其人志',
+          //   docsPluginId: 'renwu'
+          // },
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
