@@ -237,7 +237,7 @@ const config = {
             copyright: ' CC BY-NC-SA 4.0 '
           },
           blogTitle: '新闻',
-          blogSidebarTitle: '测试消息',
+          blogSidebarTitle: '新闻列表',
         },
       ],
       [
