@@ -23,6 +23,8 @@ const defaultImages = [
   '/img/hero/bg1.jpg',
   '/img/hero/bg2.jpg',
   '/img/hero/bg3.jpg',
+  '/img/hero/bg4.png',
+  '/img/hero/bg5.png',
 ];
 
 /*
