@@ -268,6 +268,39 @@ body {
   position: relative;
 }
 
+/* 卡片标题位置调整 */
+.card__header {
+  padding: 0;
+  margin: 0;
+}
+
+.card__header h2,
+.card__header h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.card__body {
+  padding: 0;
+  padding-top: 0.5rem;
+}
+
+.card h2 {
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--balance-1);
+  display: flex;
+  align-items: center;
+}
+
+.card p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
 .card:after {
   content: '';
   position: absolute;
@@ -284,20 +317,6 @@ body {
   transform: translateY(-2px);
   box-shadow: var(--shadow-sm);
   border-color: rgba(230, 92, 79, 0.2);
-}
-
-.card h2 {
-  font-size: 1.25rem;
-  margin-bottom: 0.75rem;
-  color: var(--balance-1);
-  display: flex;
-  align-items: center;
-}
-
-.card p {
-  color: var(--text-secondary);
-  font-size: 0.9rem;
-  line-height: 1.6;
 }
 
 /* ===== 7. 按钮 ===== */
