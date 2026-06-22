@@ -25,11 +25,16 @@ const config = {
   trailingSlash: false,
 
   onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
   onBrokenAnchors: 'warn',
 
   markdown: {
     mermaid: true,
+    remarkRehypeOptions: {
+      footnoteLabel: "脚注",
+    },
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
   },
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -68,8 +73,8 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       metadata: [
-        {name: 'keywords', content: 'redstarmc,红星我的世界社区,MC,我的世界,Minecraft,Wiki,维基,文档,服务器,红星,RS,RedStar,推荐,Java,优质,怎么'},
-        {name: 'description', content: '红星我的世界社区（www.redstarmc.top)，是一个致力于为玩家带来快乐的游戏社区。这里是它的维基，我们可以为你的游玩过程提供许多帮助！也能从这里即时获取服务器的最新消息。'},
+        {name: 'keywords', content: 'redstarmc,红星我的世界社区,MC,我的世界,Minecraft,公益,不收费,Wiki,维基,文档,服务器,红星,RS,RedStar,网络社区,推荐,Java,好玩,优质,怎么,咋办,'},
+        {name: 'description', content: '红星我的世界社区（www.redstarmc.top)，是一个致力于为玩家带来快乐的游戏社区。这里是这个社区的维基，是您获取社区、社区服务器相关信息，社区新闻，游戏指南，社区规则和历史事件的一站式资源中心。'},
       ],
       navbar: {
         title: '红星我的世界社区维基',
@@ -199,7 +204,7 @@ const config = {
         ],
         // 底部版权信息
         // copyright: `Copyright © 2021 - ${new Date().getFullYear()} RedStarMC Community, All Rights Reserved.`
-        copyright: `<a href="https://www.redstarmc.top/Wiki">红星我的世界社区维基</a> © 2021 - ${new Date().getFullYear()} 由 <a href="https://www.redstarmc.top">红星我的世界社区</a> 授权 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 许可协议</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="CC"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="BY"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="SA">`
+        copyright: `<a href="https://wiki.redstarmc.top/">红星我的世界社区维基</a> © 2021 - ${new Date().getFullYear()} 由 <a href="https://www.redstarmc.top">红星我的世界社区</a> 授权，适用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 许可协议</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="CC"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="BY"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;" alt="SA">`
       },
       // 深浅主题
       prism: {
