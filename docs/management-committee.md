@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+slug: ManagementCommittee
 ---
 
 # 管理组名单暨人员变动
@@ -11,12 +12,13 @@ sidebar_position: 6
 ## 现任管理组名单
 游戏内ID —— 职务
 
-* pingguo —— `腐竹`
-* Wenjian —— `运维`
-* Lier_dog —— `群主`、`建筑`
+* Wenjian —— `腐竹`
+* pingguo —— `运维`
 * Snowphier —— `管理`
-* WCPt —— `协管`
+* WCPt —— `见习管理`
 * good344654 —— `技术`
+* Lier_dog —— `建筑`
+* chaton —— `建筑`
 
 ## 管理人员历史任职记录名单
 
@@ -33,6 +35,14 @@ sidebar_position: 6
 :::
 
 ***
+
+### 2026年
+
+2026-6-16:
+1. `wenjian` 担任 *第五任* `腐竹`
+2. `pingguo` 担任 *第四任* `运维`
+3. `WCPt` 担任 `见习管理`
+4. `Lier_dog` 卸任 `玩家群群主` 
 
 ### 2025年
 
@@ -51,7 +61,9 @@ sidebar_position: 6
 
 2024-2-5 `Snowphier` 担任 `协管`
 
-2024-7月初 `370blandmy` 担任 `建筑师` 职务
+2024-7月初 `370blandmy` 担任 `建筑师`
+
+2024-7-9 `chaton` 担任 `建筑师`
 
 2024-7-10 `370blandmy` 被撤销 `建筑师` 职务  <!-- (此处应链接到 `370事件`) -->
 
