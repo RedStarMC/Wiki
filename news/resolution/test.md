@@ -1,7 +1,6 @@
 ---
 hide_table_of_contents: true
-date: '2025-10-3'
-authors: official
+date: '2025-10-03'
 ---
 
 # 社区新闻
