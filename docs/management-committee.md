@@ -16,6 +16,7 @@ slug: ManagementCommittee
 * pingguo —— `运维`
 * Snowphier —— `管理`
 * WCPt —— `见习管理`
+* momo —— `协管`
 * good344654 —— `技术`
 * Lier_dog —— `建筑`
 * chaton —— `建筑`
@@ -42,7 +43,9 @@ slug: ManagementCommittee
 1. `wenjian` 担任 *第五任* `腐竹`
 2. `pingguo` 担任 *第四任* `运维`
 3. `WCPt` 担任 `见习管理`
-4. `Lier_dog` 卸任 `玩家群群主` 
+4. `Lier_dog` 卸任 `玩家群群主`
+
+2026-7-21: `momo` 担任 `协管`
 
 ### 2025年
 

@@ -27,7 +27,7 @@ sidebar_position: 1
 
 - [**`新闻`**](../news) - 发现社区最新消息
 
-- [**如何加入服务器**](server/how-to-join-server.md)
+- 如果您不知道如何加入社区服务器，请点击： [**如何加入服务器**](server/how-to-join-server.md)
 
 :::note 版本支持
 
