@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 生存二服
+# 生存二服介绍
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';

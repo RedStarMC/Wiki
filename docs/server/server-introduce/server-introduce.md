@@ -3,7 +3,7 @@ slug: /server/server-introduce
 sidebar_position: 2
 ---
 
-# 服务器介绍
+# 社区服务器各子服详解
 
 了解各个服务器。
 
