@@ -2,14 +2,14 @@
 sidebar_position: 4
 ---
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 # 生电服介绍
 
 生电服的加入方法、玩法和机制等内容的介绍。
 
 ***
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 生电服版本为 `1.21.1` ，Fabric `0.17.0`
 

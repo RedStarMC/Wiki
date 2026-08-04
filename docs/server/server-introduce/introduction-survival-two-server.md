@@ -4,12 +4,12 @@ sidebar_position: 3
 
 # 生存二服介绍
 
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
-
 本篇介绍了生存服的玩法、指令、机制以及部分插件内容。
 
 ***
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 :::warning[警告]
 
