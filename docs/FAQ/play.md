@@ -59,7 +59,7 @@ sidebar_position: 2
 目前允许。在生存服可使用矿透（Xray）类资源查找，但不得因此进行恶意行为或影响他人正常游玩；  
 如遇专项活动或子服限制，以当场公告为准。
 
-详情见：[插件生存服介绍](../server/server-introduce/introduction-to-survival-server.md)
+详情见：[插件生存服介绍](../server/server-introduce/introduction-survival-two-server.md)
 
 ## Q: 对于定时开关机
 

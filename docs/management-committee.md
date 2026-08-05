@@ -3,22 +3,24 @@ sidebar_position: 6
 slug: ManagementCommittee
 ---
 
-# 管理组名单暨人员变动
+# 管理组任职名单暨人员变动日志
 
-记录管理组管理人员职位变化的日志。
+记录社区管理人员职位和管理组人事变动的日志。
 
 ***
 
-## 现任管理组名单
+## 现任社区职务任职名单
 游戏内ID —— 职务
 
 * Wenjian —— `腐竹`
 * pingguo —— `运维`
 * Snowphier —— `管理`
 * WCPt —— `见习管理`
+* momo —— `协管`
 * good344654 —— `技术`
 * Lier_dog —— `建筑`
 * chaton —— `建筑`
+* CHI___NIAN  —— `实习建筑`
 
 ## 管理人员历史任职记录名单
 
@@ -30,7 +32,7 @@ slug: ManagementCommittee
 2024年以前的部分内容时间无法考证或日期模糊。  
 页面最下方为管理人员人物志链接。
 
-关于职务，请参见 [关于我们](https://wiki.redstarmc.top/about)。
+关于社区职务，请参见 [关于我们](https://wiki.redstarmc.top/about)。
 
 :::
 
@@ -42,7 +44,11 @@ slug: ManagementCommittee
 1. `wenjian` 担任 *第五任* `腐竹`
 2. `pingguo` 担任 *第四任* `运维`
 3. `WCPt` 担任 `见习管理`
-4. `Lier_dog` 卸任 `玩家群群主` 
+4. `Lier_dog` 卸任 `玩家群群主`
+
+2026-7-21: `momo` 担任 `协管`
+
+2026-7-23: `CHI___NIAN` 担任 `实习建筑`
 
 ### 2025年
 
@@ -87,7 +93,7 @@ slug: ManagementCommittee
 * `pingguo` 恢复职务 `后台`
 * `feng_lang` 卸任 `协管`
 
-2022-8-7 `pingguo` 成立 **管理组**
+2022-8-7:  **管理组** 成立
 
 2022-10-6:
 1. `pingguo` 担任 *第二任* `代理腐竹` 兼 *第一任* `运维`
@@ -107,6 +113,7 @@ slug: ManagementCommittee
 
 2021-12-21 `fuck(即 CreeperHenlv)` 担任 *第一任* `腐竹` 
 
+## 备注
 
 :::note
 
@@ -119,10 +126,6 @@ slug: ManagementCommittee
   - `被撤销` 指因为违规等非主观原因离职。
 
 :::
-
-## 管理人员人物志链接
-
-TODO
 
 
 

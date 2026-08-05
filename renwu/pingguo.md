@@ -1,3 +1,7 @@
+---
+unlisted: true
+---
+
 # pingguo
 
 权限号：`pingguomc` 
