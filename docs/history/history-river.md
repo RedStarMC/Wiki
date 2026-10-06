@@ -128,6 +128,12 @@ date: "2026-01-01",
 title: "2026 新年活动",
 description: "新年快乐！新的活动地图。",
 url: "https://www.bilibili.com/video/BV1YkiTBeEPB/?share_source=copy_web&vd_source=0c579ca481e99907fda9d05eb4ec333b"
-}
+},
+{
+date: "2026-07-11",
+title: "生存三服开启",
+description: "1.21.11 原版拓展向插件生存服，点击查看更多...",
+url: "/server/server-introduce/introduction-survival-three-server"
+},
 ]}
 />
