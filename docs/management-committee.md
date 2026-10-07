@@ -20,7 +20,7 @@ slug: ManagementCommittee
 * good344654 —— `技术`
 * Lier_dog —— `建筑`
 * chaton —— `建筑`
-* CHI___NIAN  —— `实习建筑`
+* CHI___NIAN  —— `建筑`
 
 ## 管理人员历史任职记录名单
 
@@ -51,6 +51,8 @@ slug: ManagementCommittee
 2026-7-21: `momo` 担任 `协管`
 
 2026-7-23: `CHI___NIAN` 担任 `实习建筑`
+
+2026-10-6: `CHI___NIAN` 担任 `建筑` (转正)
 
 ### 2025年
 
