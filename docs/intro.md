@@ -3,68 +3,49 @@ id: intro
 sidebar_position: 1
 ---
 
-# 欢迎访问 RedStarMC 社区维基 {#welcome}
+# 欢迎访问 RedStarMC Wiki
 
 欢迎访问 RedStarMC 社区维基！这里是您获取社区、社区服务器相关信息，社区新闻，游戏指南，社区规则和历史事件的一站式资源中心。
 
-***
+:::info 条目状态说明
 
-## 快速导航 {#quick-nav}
-
-:::tip
-
-初次访问？ 点击下方 `链接`，快速访问。
+⛔ 标记条目为未完工内容，急需时可联系管理员。
 
 :::
 
-- [**`服务器介绍`**](server/server-introduce/server-introduce.md) - 认识各服务器游戏内容
+***
 
-- [**`游戏规则`**](rules/rules.md) - 公平游戏准则  
+## 新玩家？从这里开始
 
-- [**`常见问题`**](FAQ/FAQ.md) - 快速解答疑问  
+**第一步：了解规则** → [玩家须知](rules/player-notice.md)
 
-- [**`社区历史`**](history/history.md) - 了解历史故事
+**第二步：加入服务器** → [服务器总览](server/server.md)
 
-- [**`新闻`**](../news) - 发现社区最新消息
+**第三步：选择子服** → [各子服详解](server/server-introduce/server-introduce.md)
 
-- 如果您不知道如何加入社区服务器，请点击： [**如何加入服务器**](server/how-to-join-server.md)
+***
+
+## 快速导航
+
+| 分类 | 说明 |
+|---|---|
+| [服务器](server/server.md) | 如何加入、各子服介绍 |
+| [规则](rules/rules.md) | 玩家须知、管理条例、申诉举报 |
+| [常见问题](FAQ/FAQ.md) | 遇到问题先看这里 |
+| [贡献 Wiki](contribute/contribute.md) | 参与内容维护 |
+| [管理委员会](management-committee.md) | 社区管理架构 |
+
+***
+
+## 联系方式
+
+- **官网**：[redstarmc.top](https://www.redstarmc.top/)
+- **QQ 群**：568197092 · [加群链接](https://qm.qq.com/q/Xu2Ac6roMW)
+- **生存服群**：[加群链接](https://qm.qq.com/q/I4uSACDTiw)
+- **GitHub**：[RedStarMC](https://github.com/RedStarMC)
 
 :::note 版本支持
 
-服务器兼容版本：**1.12.2 - 1.21.5**
-
-**推荐版本**：1.19.4 及以上
-:::
-
-:::caution 重要提醒
-
-请务必遵守服务器规则，违规将受处罚。  
-完整规则详见：[规则章节](rules/rules.md)
+服务器推荐版本：**1.21.1 / 1.21.11**（各子服版本不同，详见各子服页面）
 
 :::
-
-:::info 条目状态
-
-⛔ 标记条目为未完工内容，急需时可联系管理员
-
-:::
-
-## 联系方式 {#contact}
-
-:::info 官方渠道
-
-- **官网**：[点击进入](https://www.redstarmc.top/)  
-
-- **QQ群**：568197092 [加群链接](https://qm.qq.com/q/Xu2Ac6roMW)  （生存服群：[点击链接加入群聊【RedStar生存服交流群】](https://qm.qq.com/q/I4uSACDTiw)）
-
-- **GitHub**：[项目仓库](https://github.com/RedStarMC)  
-
-:::
-
-通过以上方式获取支持，或查看 [关于我们](/about)
-
-## 贡献 Wiki {#contribute}
-
-本 Wiki 由社区共同维护，欢迎：  
-✅ 提交编辑请求 | ✅ 报告内容错误  
-贡献指南详见：[贡献说明](contribute/contribute.md)
