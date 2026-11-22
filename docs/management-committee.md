@@ -15,12 +15,12 @@ slug: ManagementCommittee
 * Wenjian —— `腐竹`
 * pingguo —— `运维`
 * Snowphier —— `管理`
-* WCPt —— `见习管理`
+* WCPt —— `管理`
 * momo —— `协管`
 * good344654 —— `技术`
 * Lier_dog —— `建筑`
 * chaton —— `建筑`
-* CHI___NIAN  —— `实习建筑`
+* CHI___NIAN  —— `建筑`
 
 ## 管理人员历史任职记录名单
 
@@ -46,9 +46,13 @@ slug: ManagementCommittee
 3. `WCPt` 担任 `见习管理`
 4. `Lier_dog` 卸任 `玩家群群主`
 
+2026-7-2: `WCPt` 担任 `管理` (转正)
+
 2026-7-21: `momo` 担任 `协管`
 
 2026-7-23: `CHI___NIAN` 担任 `实习建筑`
+
+2026-10-6: `CHI___NIAN` 担任 `建筑` (转正)
 
 ### 2025年
 

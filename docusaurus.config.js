@@ -176,8 +176,8 @@ const config = {
             title: '友情链接',
             items: [
               {
-                label: '未添加',
-                to: '1',
+                label: 'pingguomc 的临时个人站点',
+                href: 'https://pingguomc.github.io',
               }
             ],
           },

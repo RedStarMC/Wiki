@@ -19,6 +19,9 @@ sponsors={[
 { name: "DARKMATTERZ", amount: "¥20", date: "2026-08-03" },
 { name: "waibibabo2009", amount: "¥50", date: "2026-08-03" },
 { name: "NMDHTX", amount: "¥15", date: "2026-08-27" },
+{ name: "CHI___NIAN", amount: "¥100", date: "2026-09-12" },
+{ name: "foodbyte", amount: "¥5", date: "2026-09-12" },
+{ name: "WCPt", amount: "¥50", date: "2026-10-5" },
 ]}
 />
 
